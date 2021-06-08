@@ -1,5 +1,5 @@
-<div align="center" id="top" style="background-color:#2D4A22; "> 
-  <img src="./src/assets/logo.svg" alt="Dev finances" />
+<div align="center" id="top"> 
+  <img src="./src/assets/GitHub/logo.png" alt="Dev finances" />
 </div>
 
 <hr/>
