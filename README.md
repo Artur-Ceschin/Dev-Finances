@@ -1,4 +1,4 @@
-<div align="center" id="top" style="background-color: #2D4A22"> 
+<div align="center" id="top" style="background-color:#2D4A22; "> 
   <img src="./src/assets/logo.svg" alt="Dev finances" />
 </div>
 
